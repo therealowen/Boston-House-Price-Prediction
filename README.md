@@ -34,10 +34,12 @@ Harrison, David & Rubinfeld, Daniel. (1978). Hedonic housing prices and the dema
 
 Belsley, David A. & Kuh, Edwin. & Welsch, Roy E. (1980). Regression diagnostics: identifying influential data and sources of collinearity. New York: Wiley LINK
 
+---
+**XGBoost Model Output:**
+ <img width="897" alt="Screenshot 2024-03-23 at 10 55 54 AM" src="https://github.com/therealowen/Boston-House-Price-Prediction/assets/31581639/041f3a5b-06af-461f-9792-b0fc75c781b7">
+<br><br><br>
 
 ![image](https://github.com/therealowen/Boston-House-Price-Prediction/assets/31581639/626afcaf-6f70-416b-8853-47d9323ab4fb)
 
 ![image](https://github.com/therealowen/Boston-House-Price-Prediction/assets/31581639/11544ee1-5fde-4b14-992f-55f762a03274)
-
- <img width="897" alt="Screenshot 2024-03-23 at 10 55 54 AM" src="https://github.com/therealowen/Boston-House-Price-Prediction/assets/31581639/041f3a5b-06af-461f-9792-b0fc75c781b7">
 
