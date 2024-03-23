@@ -33,3 +33,10 @@ Relevant Papers
 Harrison, David & Rubinfeld, Daniel. (1978). Hedonic housing prices and the demand for clean air. Journal of Environmental Economics and Management. 5. 81-102. 10.1016/0095-0696(78)90006-2. LINK
 
 Belsley, David A. & Kuh, Edwin. & Welsch, Roy E. (1980). Regression diagnostics: identifying influential data and sources of collinearity. New York: Wiley LINK
+
+
+![image](https://github.com/therealowen/Boston-House-Price-Prediction/assets/31581639/626afcaf-6f70-416b-8853-47d9323ab4fb)
+
+![image](https://github.com/therealowen/Boston-House-Price-Prediction/assets/31581639/11544ee1-5fde-4b14-992f-55f762a03274)
+
+ 
