@@ -39,4 +39,5 @@ Belsley, David A. & Kuh, Edwin. & Welsch, Roy E. (1980). Regression diagnostics:
 
 ![image](https://github.com/therealowen/Boston-House-Price-Prediction/assets/31581639/11544ee1-5fde-4b14-992f-55f762a03274)
 
- 
+ <img width="897" alt="Screenshot 2024-03-23 at 10 55 54 AM" src="https://github.com/therealowen/Boston-House-Price-Prediction/assets/31581639/041f3a5b-06af-461f-9792-b0fc75c781b7">
+
